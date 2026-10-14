@@ -8,7 +8,8 @@ Personal Claude skills repository — productivity workflows for Sakshet Chavan.
 |---|---|
 | [`slack-triage`](./skills/slack-triage/) | Full Slack sweep — finds all unanswered mentions and open threads across all channels, classifies by priority, and sends a DM to self |
 | [`notion-large-update`](./skills/notion-large-update/) | Chunked Notion writes that survive Cloudflare 403 blocks |
-| [`log-session`](./skills/log-session/) | Append a fixed-format entry to sessions.md, newest first, then check CLAUDE.md drift |
+| [`log-session`](./skills/log-session/) | Append a fixed-format entry to sessions.md, newest first, then check CLAUDE.md drift, then offer a resume prompt |
+| [`resume-prompt`](./skills/resume-prompt/) | Build a resume prompt from sessions.md, handoffs, project CLAUDE.md and memory, push workspace-sync, and DM it to self in Slack |
 
 ---
 

@@ -104,3 +104,8 @@ Logged: "<Project tag>: <Topic>" -> sessions.md
 ```
 
 Append ` + CLAUDE.md updated` if drift edits were applied.
+
+### 6. Offer the resume prompt
+
+After the confirm line, ask once: "Send a resume prompt to your Slack DM?" On yes, run the
+`resume-prompt` skill. Don't run it without a yes.
